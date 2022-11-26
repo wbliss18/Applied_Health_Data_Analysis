@@ -1,4 +1,3 @@
-# Applied_Health_Data_Analysis
+Project: Determining Risk Factors for Low Birth Weight
 
-Description:
-Methods and software packages in Biostatistics typically used in epidemiological research and practice including data management and multiple regressions.
+This project looks at data collected by University Baystate Medical Center Springfield, Massachusetts to determine which factors contribute to low birth weight. Multiple regression is used.
